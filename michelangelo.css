@@ -14,7 +14,7 @@
   
   .home {
     padding: 0;
-    background-image: url(retrato.jpg);
+    background-image: url(foto/retrato.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh; 
