@@ -78,13 +78,13 @@
     display: flex;
     justify-content: right;
     margin-top: 20px;
-    position: relative;
+    position: fixed;
   }
   
   li {
     display: flex;
     align-items: center;
-    position: relative;
+    position: fixed;
     top: 20px;
   }
   
